@@ -1,0 +1,7 @@
+bin/
+third_party/uvc-util/
+*.png
+*.jpg
+*.jpeg
+*.capture.json
+.DS_Store
